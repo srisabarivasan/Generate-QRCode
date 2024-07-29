@@ -7,7 +7,7 @@ Save generated QR codes as image files (PNG, JPEG, etc.).
 Simple and user-friendly command-line interface.
 
 # Requirements
-> Python
+* Python
 > Visual Studio Code
 > Jupiter Notebook
 
